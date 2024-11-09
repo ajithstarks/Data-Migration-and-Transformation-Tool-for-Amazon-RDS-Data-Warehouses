@@ -1,2 +1,2 @@
 # Data-Migration-and-Transformation-Tool-for-Amazon-RDS-Data-Warehouses
-Data Migration and Transformation Tool for Amazon RDS Data Warehouses | Capstone Project 2
+Data Migration and Transformation Tool for Amazon RDS Data Warehouses | Capstone Project 6
